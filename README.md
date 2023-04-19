@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me
+
+I am a **C**-first, **performance**-first, **maintainable**-first developper. With experience in front-end GUI, graphics design and back-end programming, I can help you build responsive applications or APIs which you will not have to debug and which will be _clear_ and _readable_.
 
 <!--
 **Trantorian1/Trantorian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
