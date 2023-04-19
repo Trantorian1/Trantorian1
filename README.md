@@ -7,17 +7,33 @@ I am a **C**-first, **performance**-first, **maintainable**-first developper. Wi
 ### 🛠 docs(Languages & tools)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c_99%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c 99+" />
-  <img src="https://img.shields.io/badge/java-orange?style=for-the-badge" alt="java" />
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
-  <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
-  <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
-  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=GNU+bash&logoColor=white" alt="bash" />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://img.shields.io/badge/c_99%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c 99+" />
+  </a>
+  <a href="https://www.java.com/en/">
+    <img src="https://img.shields.io/badge/java-orange?style=for-the-badge" alt="java" />
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/">
+    <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
+  </a>
+  <a href="https://www.lua.org/">
+    <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=GNU+bash&logoColor=white" alt="bash" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim">
-  <img src="https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="inkscape">
+  <a href="https://github.com/Trantorian1/TermIDE">
+    <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim">
+   </a>
+   <a href="https://inkscape.org/">
+    <img src="https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="inkscape">
+   </a>
 </p>
 
 
