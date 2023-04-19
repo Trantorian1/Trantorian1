@@ -4,7 +4,7 @@
 
 I am a **C**-first, **performance**-first, **maintainable**-first developper. With experience in front-end GUI, graphics design and back-end programming, I can help you build responsive applications or APIs which you will not have to debug and which will be _clear_ and _readable_.
 
-### docs(Languages)
+### docs(Languages & tools)
 
 <p align="center">
   <img src="https://img.shields.io/badge/c_99%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c 99+" />
@@ -13,6 +13,11 @@ I am a **C**-first, **performance**-first, **maintainable**-first developper. Wi
   <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
   <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=GNU+bash&logoColor=white" alt="bash" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim">
+  <img src="https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="inkscape">
 </p>
 
 
