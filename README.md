@@ -6,6 +6,14 @@ I am a **C**-first, **performance**-first, **maintainable**-first developper. Wi
 
 ### docs(Languages)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/c_99%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c 99+" />
+  <img src="https://img.shields.io/badge/java-orange?style=for-the-badge" alt="java" />
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+  <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
+  <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
+  <img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=GNU+bash&logoColor=white" alt="bash" />
+</p>
 
 
 ### docs(Stats)
