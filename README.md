@@ -28,12 +28,19 @@ I am a **C**-first, **performance**-first, **maintainable**-first developper. Wi
 </p>
 
 <p align="center">
+  
+</p>
+
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+  </a>
   <a href="https://github.com/Trantorian1/TermIDE">
     <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim">
-   </a>
-   <a href="https://inkscape.org/">
+  </a>
+  <a href="https://inkscape.org/">
     <img src="https://img.shields.io/badge/inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="inkscape">
-   </a>
+  </a>
 </p>
 
 
