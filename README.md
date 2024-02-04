@@ -2,22 +2,22 @@
 
 ### ℹ️ docs(About me)
 
-I am a **C**-first, **performance**-first, **maintainable**-first developper. With experience in front-end GUI, graphics design and back-end programming, I can help you build responsive applications or APIs which you will _not have to debug_ and which will be _clear_ and _readable_.
+I am a **low-level**, **performance**-first, **maintainable**-first developper. With experience in front-end GUI, graphics design and back-end programming, I can help you build responsive applications or APIs which will be _clear_ and _readable_.
 
 ### 🛠 docs(Languages & tools)
 
 <p align="center">
+  <a href="https://rust-lang.org">
+    <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust" alt="Rust">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C++">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.shields.io/badge/c_99%2B-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c 99+" />
   </a>
-  <a href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/java-orange?style=for-the-badge" alt="java" />
-  </a>
   <a href="https://kotlinlang.org/">
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/">
-    <img src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" />
   </a>
   <a href="https://www.lua.org/">
     <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
