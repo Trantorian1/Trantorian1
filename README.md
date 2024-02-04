@@ -1,6 +1,6 @@
 ![Trantorian profile banner](https://raw.githubusercontent.com/Trantorian1/Trantorian1/main/trantorian.png)
 
-### ℹ️ docs(About me)
+### 👋 docs(About me)
 
 I am a **low-level**, **performance**-first, **maintainable**-first developper. With experience in front-end GUI, graphics design and back-end programming, I can help you build responsive applications or APIs which will be _clear_ and _readable_.
 
