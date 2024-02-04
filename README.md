@@ -35,7 +35,7 @@ I am a **low-level**, **performance**-first, **maintainable**-first developper. 
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
   </a>
-  <a href="https://github.com/Trantorian1/TermIDE">
+  <a href="https://github.com/Trantorian1/DockIDE">
     <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim">
   </a>
   <a href="https://inkscape.org/">
