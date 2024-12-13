@@ -1,4 +1,4 @@
-![Trantorian profile banner](https://raw.githubusercontent.com/Trantorian1/Trantorian1/main/trantorian.png)
+<!-- ![Trantorian profile banner](https://raw.githubusercontent.com/Trantorian1/Trantorian1/main/trantorian.png) -->
 
 ### 👋 docs(About me)
 
